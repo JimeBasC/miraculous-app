@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0aa05e5c.css",
+    "main.js": "/static/js/main.0c527cf3.js",
+    "static/media/adrien.jpg": "/static/media/adrien.913f6183fec5f10ce030.jpg",
+    "static/media/tikki.png": "/static/media/tikki.79fda1ce14f8724fa8ca.png",
+    "index.html": "/index.html",
+    "main.0aa05e5c.css.map": "/static/css/main.0aa05e5c.css.map",
+    "main.0c527cf3.js.map": "/static/js/main.0c527cf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aa05e5c.css",
+    "static/js/main.0c527cf3.js"
+  ]
+}
